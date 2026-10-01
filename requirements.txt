@@ -2,10 +2,13 @@ pandas
 numpy
 seaborn
 matplotlib
+plotly
 scikit-learn
+tensorflow
+torch
 catboost
 xgboost
 Flask
 fastapi
-uvicorn         
-#-e .
+uvicorn      
+#-e . 
