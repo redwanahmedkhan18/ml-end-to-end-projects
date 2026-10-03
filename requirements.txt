@@ -10,5 +10,8 @@ catboost
 xgboost
 Flask
 fastapi
-uvicorn      
+uvicorn
+Pillow
+jupyter
+ipykernel      
 #-e . 

@@ -16,7 +16,7 @@ from __future__ import annotations
 import sys
 import traceback
 from typing import Optional
-
+from src.logger import logging
 
 def error_message_detail(
     error: BaseException,
